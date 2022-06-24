@@ -1,2 +1,1 @@
-#!/bin/bash
-su betty
+Task 0 my name is betty
